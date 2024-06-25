@@ -16,28 +16,23 @@
 
 ## Skills
 
-- Skill 1
-- Skill 2
-- Skill 3
+- Project Management
+- Problem-Solving
+- Adaptability
 
 ## Projects
 
-- [Project Name], [Description], [Year]
-- [Project Name], [Description], [Year]
-
-## Certifications
-
-- [Certification Name], [Issuing Organization], [Year]
-- [Certification Name], [Issuing Organization], [Year]
+- [Cleaning of markets "Biedronka"], [Organization and management of five cleaning crews.], [2020-now]
+- [Cleaning of hotels], [Cleaning of two hotels in Warsaw], [2022-now]
 
 ## Languages
 
-- Language 1
-- Language 2
-- Language 3
+- Russian - 100%
+- Poland - 90%
+- English - 50%%
+- Ukranian - 70%
 
 ## Interests
 
-- Interest 1
-- Interest 2
-- Interest 3
+- Auto & Moto
+- IT tech
