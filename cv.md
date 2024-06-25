@@ -1,4 +1,4 @@
-# Hello. My name is Vladimir Badahov
+# Hello. My name is Vladimir Badahov. I am planning to start my own IT company for software development and maintenance. Currently, I am taking a course at Rolling Scopes School to prepare for this.
 
 ## Personal Information
 
